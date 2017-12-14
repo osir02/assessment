@@ -20,7 +20,8 @@
         if (userName.length === 0) { //名前がからのとき
             return;
         }
-
+        
+        // test to edit issue with hushtag
         //診断結果表示エリアの作成
         removeAllChildren(resultDivided);
         
